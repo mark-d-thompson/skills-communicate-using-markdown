@@ -6,3 +6,6 @@ created a h1 main header and h3 sub header
 let message="Hello Markdown World!"
 consolelog(message)
 ```
+- [ ] item 1
+- [ ] item 2
+- [x] item 3
